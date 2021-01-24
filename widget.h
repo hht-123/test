@@ -2,6 +2,7 @@
 #define WIDGET_H
 
 #include <QWidget>
+#include <QPushButton>
 
 namespace Ui {
 class Widget;
