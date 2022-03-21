@@ -6,7 +6,6 @@ Widget::Widget(QWidget *parent) :
     ui(new Ui::Widget)
 {
     ui->setupUi(this);
-    QPushButton *test = new QPushButton("123", this);
 }
 
 Widget::~Widget()
